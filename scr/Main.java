@@ -6,6 +6,6 @@ public class Main {
         String str = "Hello";
         boolean isEmpty = false;
 
-        System.out.println(a + ", " + str + ", " + ", " + isEmpty);
+        System.out.println(a + ", " + str + ", " + ", " + isEmpty + "информация с удаленного репозитория.");
     }
 }
