@@ -7,5 +7,6 @@ public class Main {
         boolean isEmpty = false;
 
         System.out.println(a + ", " + str + ", " + ", " + isEmpty);
+        System.out.println("Новая функция");
     }
 }
